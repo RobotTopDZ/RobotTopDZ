@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/RobotTopDZ">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=KHALDI+Oussama;Intelligence+Artificielle+%7C+Science+des+Données;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=KHALDI+Oussama;Intelligence+Artificielle+%7C+Science+des+Donn%C3%A9es;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/khaldi-oussama-9bb66a299">
@@ -120,6 +120,9 @@ Compétiteur actif dans les hackathons d'IA, j'ai remporté plusieurs prix prest
 | **Tableaux de bord Power BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 | **Développement KPI** | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | **Analytics Marketing** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white) |
+| **Web Scraping** | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **ETL & Data Engineering** | ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 | **Visualisation de données** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=python) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 
 </td><td>
