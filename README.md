@@ -18,8 +18,8 @@
 </a>
 
 </p>
-
 * **Licence Informatique et Big Data** @ [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/)
+* **Done my BAC+4(Master2) en statistiques et science de données a l'école supèrieure de statistiques et d'économie appliquer.
 * **Spécialiste en Intelligence Artificielle et Science des Données** avec expertise approfondie en **Deep Learning**, **NLP** et **Computer Vision**
 * **Expert en systèmes RAG (Retrieval-Augmented Generation)** et architectures d'embeddings vectoriels
 * **Compétiteur expérimenté** dans les hackathons d'IA et concours de Data Science
