@@ -19,23 +19,22 @@
 
 </p>
 
-## 🎓 Formation & Expertise
+## Formation & Expertise
 
 - **Licence Informatique et Big Data** @ [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/)
 - **Master 2 (BAC+4) en Statistiques et Science des Données** @ École Supérieure de Statistiques et d'Économie Appliquée (ENSSEA)
 
-## 🤖 Spécialisations Techniques
+## Spécialisations Techniques
 
 - **Spécialiste en Intelligence Artificielle et Science des Données** avec expertise approfondie en **Deep Learning**, **NLP** et **Computer Vision**
 - **Expert en systèmes RAG (Retrieval-Augmented Generation)** et architectures d'embeddings vectoriels
 - **Compétiteur expérimenté** dans les hackathons d'IA et concours de Data Science
 
-## 💼 Expérience Professionnelle
+## Expérience Professionnelle
 
 - **2 stages professionnels** en analyse de données, création de tableaux de bord et développement de KPI
-- **Power BI et Business Intelligence** : [Plateforme RAG d'Analyse du Marché Immobilier Algérien](https://github.com/RobotTopDZ/Plateforme-RAG-next.js-analyse-du-marche-immobilier-en-Algerie/) - Analyse complète du marché immobilier algérien avec IA conversationnelle
 
-## 🌐 Portfolio
+## Portfolio
 
 - **Projets et réalisations** : [www.dzdigitalservices.com](https://www.dzdigitalservices.com)
 
@@ -84,6 +83,7 @@ Expérience solide en résolution de problèmes complexes sous contraintes de te
 - Développement de KPI et systèmes de suivi de performance
 - Analytics marketing et segmentation client
 - Modélisation de données et processus ETL
+- **Projet phare** : [Plateforme RAG d'Analyse du Marché Immobilier Algérien](https://github.com/RobotTopDZ/Plateforme-RAG-next.js-analyse-du-marche-immobilier-en-Algerie/) - Analyse complète du marché immobilier algérien avec IA conversationnelle
 
 ## Expérience Professionnelle
 
