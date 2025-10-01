@@ -22,7 +22,7 @@
 ## Formation & Expertise
 
 - **Licence Informatique et Big Data** @ [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/)
-- **Master 2 (BAC+4) en Statistiques et Science des Données** @ École Supérieure de Statistiques et d'Économie Appliquée (ENSSEA)
+- **Master 1 (BAC+4) en Statistiques et Science des Données** @ École Supérieure de Statistiques et d'Économie Appliquée (ENSSEA)
 
 ## Spécialisations Techniques
 
