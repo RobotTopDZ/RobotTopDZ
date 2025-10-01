@@ -18,14 +18,14 @@
 </a>
 
 </p>
-* **Licence Informatique et Big Data** @ [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/)
-* **Done my BAC+4(Master2) en statistiques et science de données a l'école supèrieure de statistiques et d'économie appliquer.
-* **Spécialiste en Intelligence Artificielle et Science des Données** avec expertise approfondie en **Deep Learning**, **NLP** et **Computer Vision**
-* **Expert en systèmes RAG (Retrieval-Augmented Generation)** et architectures d'embeddings vectoriels
-* **Compétiteur expérimenté** dans les hackathons d'IA et concours de Data Science
-* **2 stages professionnels** en analyse de données, création de tableaux de bord et développement de KPI
-* **Spécialisé en Power BI**, visualisation de données et analytics marketing
-* Portfolio et projets : [www.dzdigitalservices.com](https://www.dzdigitalservices.com)
+- **Licence Informatique et Big Data** @ [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/)
+- **Master 2 (BAC+4) en Statistiques et Science des Données** @ École Supérieure de Statistiques et d'Économie Appliquée (ENSSEA)
+- **Spécialiste en Intelligence Artificielle et Science des Données** avec expertise approfondie en **Deep Learning**, **NLP** et **Computer Vision**
+- **Expert en systèmes RAG (Retrieval-Augmented Generation)** et architectures d'embeddings vectoriels
+- **Compétiteur expérimenté** dans les hackathons d'IA et concours de Data Science
+- **2 stages professionnels** en analyse de données, création de tableaux de bord et développement de KPI
+- **Spécialisé en Power BI**, visualisation de données et analytics marketing
+- Portfolio et projets : [www.dzdigitalservices.com](https://www.dzdigitalservices.com)
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=robottopdz.oussama)
