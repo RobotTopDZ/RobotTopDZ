@@ -45,6 +45,7 @@
 
 Passionné par les défis d'intelligence artificielle et la programmation compétitive :
 
+- **1ère Place** - AIM 2025 (Artificial Intelligence Marseille hacktogone)
 - **1ère Place** - Algeria Data Cup
 - **1ère Place** - Synapson Hackathon  
 - **2ème Place** - Yassir AI Hackathon
